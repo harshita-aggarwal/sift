@@ -9,7 +9,7 @@ Work in progress.
 ## Roadmap
 
 - [x] Repository setup
-- [ ] Run SearXNG locally with Docker Compose
+- [x] Run SearXNG locally with Docker Compose
 - [ ] Hardened configuration (no tracking, curated engines)
 - [ ] Reverse proxy
 - [ ] CI with GitHub Actions
